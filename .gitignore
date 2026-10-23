@@ -1,0 +1,17 @@
+# build output
+native/dist/
+*.pdb
+
+# python
+__pycache__/
+*.py[cod]
+
+# editor / local
+.vs/
+.idea/
+*.user
+*.suo
+*.log
+
+# large vendor-driver extracts (not redistributable)
+native/keymap/raw/

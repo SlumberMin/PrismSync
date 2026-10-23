@@ -1,0 +1,13 @@
+* text=auto
+
+*.cs      text
+*.ps1     text
+*.md      text
+*.py      text
+*.json    text
+*.bat     text eol=crlf
+
+*.png     binary
+*.ico     binary
+*.exe     binary
+*.dll     binary
